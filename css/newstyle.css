@@ -103,6 +103,13 @@ div.reddit {
     background-position: center;
     background-size: cover;
 }
+/*Xbox*/
+div.xbox {
+    height: 100%;
+    background-image: url(../img/xbox.png);
+    background-position: center;
+    background-size: cover;
+}
 
 /*HN*/
 div.HN {
